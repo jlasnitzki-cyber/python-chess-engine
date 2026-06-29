@@ -111,6 +111,7 @@ git clone https://github.com/YourUsername/python-chess-engine.git
 Install the required packages
 
 ```bash
+cd python-chess-engine
 pip install -r requirements.txt
 ```
 
