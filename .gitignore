@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Build output
+build/
+dist/
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Windows
+Thumbs.db
+.DS_Store
