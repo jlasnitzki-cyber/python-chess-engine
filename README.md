@@ -114,6 +114,7 @@ Install the required packages
 cd python-chess-engine
 pip install -r requirements.txt
 ```
+- If there is an issue with installing the requirements, try: pip install pygame-ce
 
 Run the program
 
